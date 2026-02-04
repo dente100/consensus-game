@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# But track these directories and files
+!.gitignore
+!strategies/
+!strategies/*.py
+!results/
+!results/latest.json
+!results/latest.txt
+
+# Ignore Python cache in tracked directories
+strategies/__pycache__/
+*.pyc
+*.pyo
