@@ -1,4 +1,4 @@
-rom simulator.strategy import Strategy
+from simulator.strategy import Strategy
 from simulator.blockchain import Block
 
 class MaStrategie(Strategie):
