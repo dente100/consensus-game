@@ -6,8 +6,7 @@
 !strategies/
 !strategies/*.py
 !results/
-!results/latest.json
-!results/latest.txt
+!results/**
 
 # Ignore Python cache in tracked directories
 strategies/__pycache__/
