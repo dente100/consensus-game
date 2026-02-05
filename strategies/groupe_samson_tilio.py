@@ -6,6 +6,7 @@ Comportement:
 - Relaie immédiatement tous les blocs
 - Suit toujours la chaîne la plus longue
 
+
 Avantages:
 - Produit beaucoup de blocs
 - Réagit rapidement
